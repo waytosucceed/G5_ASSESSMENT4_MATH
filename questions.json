@@ -1,0 +1,609 @@
+{
+  "heading": "Selected Topic",
+  "topics": [
+    {
+        "heading": "Number Theory",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "In 46,524,871 in which place is 6?",
+                "options": [
+                    { "text": "Millions","image":"" },
+                    { "text": "Billions","image":"" },
+                    { "text": "Thousands","image":""},
+                    { "text": "Hundreds","image":"" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "Write the number in words for the following digits: 58,749,203.",
+                "options": [
+                    { "text": "Fifty-eight million seven hundred forty-nine thousand two hundred three" },
+                    { "text": "Fifty-eight million seven hundred forty-two thousand three hundred" },
+                    { "text": "Fifty-eight million four hundred seventy-nine thousand two hundred three" },
+                    { "text": "Fifty-eight million seven hundred forty-nine thousand twenty-three" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "If Max has 48 pens and each costs $23. What is the total value of pens Max is having?",
+                "options": [
+                    { "text": "1,014" },
+                    { "text": "1,104" },
+                    { "text": "1,054" },
+                    { "text": "1,124" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 4,
+                "question": "What is the Least Common Multiple (LCM) of 12 and 15?",
+                "options": [
+                    { "text": "30" },
+                    { "text": "45" },
+                    { "text": "60" },
+                    { "text": "75" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 5,
+                "question": "What is the Highest Common Factor (HCF) of 36 and 48?",
+                "options": [
+                    { "text": "4" },
+                    { "text": "6" },
+                    { "text": "12" },
+                    { "text": "18" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 6,
+                "question": "Which of the following numbers is divisible by 6?",
+                "options": [
+                    { "text": "132" },
+                    { "text": "145" },
+                    { "text": "208" },
+                    { "text": "215" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 7,
+                "question": "Pick the correct sign to fill in the blank. Number line is given for reference.<br><img width='60%' src='./assests/images/question/3.png'>",
+                "options": [
+                    { "text": ">" },
+                    { "text": "<" },
+                    { "text": "=" },
+                    { "text": "None" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Decimal Numbers",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "What decimal number is represented by the below shaded square:<br><img width='60%' src='./assests/images/question/4.png'>",
+                "options": [
+                    { "text": "1.49" },
+                    { "text": "1.48" },
+                    { "text": "1.50" },
+                    { "text": "1.42" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "A painter needs 1,245 screws to complete a job. If the screws are sold in packages of 30, how many minimum packages should the painter buy?",
+                "options": [
+                    { "text": "40" },
+                    { "text": "42" },
+                    { "text": "45" },
+                    { "text": "50" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "In 852.06, which digit is in the tenths place?",
+                "options": [
+                    { "text": "0" },
+                    { "text": "2" },
+                    { "text": "5" },
+                    { "text": "8" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 4,
+                "question": "What is the value of z?<br><img width='60%' src='./assests/images/question/5.png'>",
+                "options": [
+                    { "text": "0.4" },
+                    { "text": "0.6" },
+                    { "text": "1.4" },
+                    { "text": "1.6" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 5,
+                "question": "What is the Distance from Newport to Winchester?<br><img width='60%' src='./assests/images/question/12.png'>",
+                "options": [
+                    { "text": "36.2" },
+                    { "text": "35.2" },
+                    { "text": "37.6" },
+                    { "text": "37.2" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            },
+            {
+                "questionNo": 6,
+                "question": "What is the product of 4.8 × 2.5?",
+                "options": [
+                    { "text": "10.0" },
+                    { "text": "11.2" },
+                    { "text": "12.0" },
+                    { "text": "12.5" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 7,
+                "question": "A store is offering a 25% discount on all items. What is 25% as a decimal?",
+                "options": [
+                    { "text": "0.025" },
+                    { "text": "0.25" },
+                    { "text": "2.5" },
+                    { "text": "25.0" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Exponents",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Write the expression using exponent <br>3×3×3×3×3",
+                "options": [
+                    { "text": "3<sup>4</sup>" },
+                    { "text": "3<sup>5</sup>" },
+                    { "text": "3<sup>3</sup>" },
+                    { "text": "5<sup>3</sup>" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "What is  669<sup>0</sup> ?",
+                "options": [
+                    { "text": "668" },
+                    { "text": "669" },
+                    { "text": "0" },
+                    { "text": "1" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "What is the prime factorization of 84?",
+                "options": [
+                    { "text": "2² × 3 × 7" },
+                    { "text": "2 × 3² × 7" },
+                    { "text": "2 × 3 × 5 × 7" },
+                    { "text": "2² × 5 × 7" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Addition, Subtraction, Multiplication and Division",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Sarah bought 3 packs of stickers. The first pack had 58 stickers, the second had 67 stickers, and the third had 49 stickers. How many stickers does Sarah have in total?",
+                "options": [
+                    { "text": "164" },
+                    { "text": "174" },
+                    { "text": "168" },
+                    { "text": "172" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "A bookstore had 1,250 books in stock. After selling 387 books, how many books are left in the store?",
+                "options": [
+                    { "text": "853" },
+                    { "text": "863" },
+                    { "text": "873" },
+                    { "text": "843" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "A concert organizer aims to raise $72,360 from ticket sales. If each ticket costs $30, how many tickets does the organizer need to sell to reach the goal?",
+                "options": [
+                    { "text": "2,320" },
+                    { "text": "2,412" },
+                    { "text": "2,420" },
+                    { "text": "2,360" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 4,
+                "question": "Maria bought 7.5 meters of ribbon to make decorations. She wants to cut the ribbon into pieces that are each 0.5 meters long. How many pieces of ribbon will she have?",
+                "options": [
+                    { "text": "12" },
+                    { "text": "13" },
+                    { "text": "14" },
+                    { "text": "15" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            },
+            {
+                "questionNo": 5,
+                "question": "A hiker walks 12 kilometers east, then 8 kilometers west, and finally 6 kilometers east again. How many kilometers is the hiker from the starting point?",
+                "options": [
+                    { "text": "6 kilometers" },
+                    { "text": "8 kilometers" },
+                    { "text": "10 kilometers" },
+                    { "text": "12 kilometers" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Units of Measurement",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Which of the following is the largest volume?",
+                "options": [
+                    { "text": "5,000 milliliters" },
+                    { "text": "3.5 liters" },
+                    { "text": "4,800 milliliters" },
+                    { "text": "3,750 milliliters" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Time",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Liam started reading his book at 3:30 P.M. and finished at 4:45 P.M. How long did Liam spend reading?",
+                "options": [
+                    { "text": "1 hour" },
+                    { "text": "1 hour 15 minutes" },
+                    { "text": "1 hour 30 minutes" },
+                    { "text": "45 minutes" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Money",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Sam has 8 coins worth $3.80. If the coins are all fifty-cent coins and twenty-cent coins, how many fifty-cent coins and twenty-cent coins does he have?",
+                "options": [
+                    { "text": "5 fifty-cent coins and 3 twenty-cent coins" },
+                    { "text": "4 fifty-cent coins and 4 twenty-cent coins" },
+                    { "text": "6 fifty-cent coins and 2 twenty-cent coins" },
+                    { "text": "3 fifty-cent coins and 5 twenty-cent coins" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "John buys 2.5 kilograms of milk chocolate chips. What is the total cost?",
+                "options": [
+                    { "text": "$5.50" },
+                    { "text": "$6.00" },
+                    { "text": "$7.50" },
+                    { "text": "$8.00" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Number Sequences",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Type the missing number in this sequence: <br>3, 6, 12, __, 48",
+                "options": [
+                    { "text": "18" },
+                    { "text": "24" },
+                    { "text": "36" },
+                    { "text": "42" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "One Variable Equations",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Alex set his clock 15 seconds ahead, and it gains another 2 seconds every day. How many days has it been since Alex last set his clock if the clock is now 35 seconds ahead?",
+                "options": [
+                    { "text": "5 days" },
+                    { "text": "10 days" },
+                    { "text": "15 days" },
+                    { "text": "20 days" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Probability",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "You roll a 10-sided die. What is P(not greater than 6)? Write your answer as a percentage.",
+                "options": [
+                    { "text": "40%" },
+                    { "text": "60%" },
+                    { "text": "50%" },
+                    { "text": "30%" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "Jamie operates a pet grooming business. Of the last 25 pets groomed at the shop, 5 of them have been dogs. What is the experimental probability that the next pet to be groomed will be a dog?",
+                "options": [
+                    { "text": "<sup>1</sup>&frasl;<sub>5</sub>" },
+                    { "text": "<sup>1</sup>&frasl;<sub>6</sub>" },
+                    { "text": "<sup>1</sup>&frasl;<sub>4</sub>" },
+                    { "text": "<sup>1</sup>&frasl;<sub>3</sub>" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "Liam and his classmates are making sandwiches for lunch. They want one type of bread and one type of filling. The types of bread are white, whole wheat, and rye. The types of fillings are turkey, ham, cheese, and lettuce. How many different combinations can Liam and his classmates create?",
+                "options": [
+                    { "text": "9" },
+                    { "text": "12" },
+                    { "text": "8" },
+                    { "text": "7" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 4,
+                "question": "If the spinner is spun for 900 times. What is the best possible prediction number of times it stops on yellow?<br><img width='70%' src='./assests/images/question/14.png'>",
+                "options": [
+                    { "text": "150" },
+                    { "text": "200" },
+                    { "text": "450" },
+                    { "text": "100" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Coordinate Plane",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "What are the coordinates of the red square on the grid?<br><img width='80%' src='./assests/images/question/13.png'>",
+                "options": [
+                    { "text": "(3, 4)" },
+                    { "text": "(2, 5)" },
+                    { "text": "(4, 2)" },
+                    { "text": "(5, 3)" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "3D Figures",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "What is the cross-section of the three-dimensional figure shown below?<br><img width='70%' src='./assests/images/question/15.png'>",
+                "options": [
+                    { "image": "./assests/images/option/9.jpg" },
+                    { "image": "./assests/images/option/10.jpg" },
+                    { "image": "./assests/images/option/11.jpg" },
+                    { "image": "./assests/images/option/12.jpg" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "What is the resulting shape of the following net?<br><img width='60%' src='./assests/images/question/7.png'>",
+                "options": [
+                    { "image": "./assests/images/option/1.jpg" },
+                    { "image": "./assests/images/option/2.jpg" },
+                    { "image": "./assests/images/option/3.jpg" },
+                    { "image": "./assests/images/option/4.jpg" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "What is the resulting shape of the following net?<br><img width='60%' src='./assests/images/question/8.png'>",
+                "options": [
+                    { "image": "./assests/images/option/1.jpg" },
+                    { "image": "./assests/images/option/2.jpg" },
+                    { "image": "./assests/images/option/3.jpg" },
+                    { "image": "./assests/images/option/4.jpg" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Fractions and Ratios",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Emily baked a cake and ate <sup>1</sup>&frasl;<sub>4</sub> of it. She gave <sup>2</sup>&frasl;<sub>5</sub> of the cake to her friend. What fraction of the whole cake is left?",
+                "options": [
+                    { "text": "<sup>9</sup>&frasl;<sub>20</sub>" },
+                    { "text": "<sup>11</sup>&frasl;<sub>20</sub>" },
+                    { "text": "<sup>7</sup>&frasl;<sub>20</sub>" },
+                    { "text": "<sup>3</sup>&frasl;<sub>4</sub>" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "What is the product of <br><br><img width='60%' src='./assests/images/question/11.png'>",
+                "options": [
+                    { "text": "24" },
+                    { "text": "25" },
+                    { "text": "26" },
+                    { "text": "28" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "In a classroom, there are 18 boys and 12 girls. What is the ratio of boys to girls?",
+                "options": [
+                    { "text": "3:2" },
+                    { "text": "2:3" },
+                    { "text": "9:6" },
+                    { "text": "6:9" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Statistics",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "The following chart shows the number of books read by a group of students over the summer:<br><img width='50%' src='./assests/images/question/9.png'><br>What is the median number of books read by the students?",
+                "options": [
+                    { "text": "3" },
+                    { "text": "4" },
+                    { "text": "5" },
+                    { "text": "6" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "A teacher records the number of books read by her students in a month. The results are as follows: <br><img width='50%' src='./assests/images/question/10.png'><br>Which of the following frequency tables correctly represents the data?",
+                "options": [
+                    { "image": "./assests/images/option/5.jpg" },
+                    { "image": "./assests/images/option/6.jpg" },
+                    { "image": "./assests/images/option/7.jpg" },
+                    { "image": "./assests/images/option/8.jpg" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Areas and Perimeter",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "A rectangular garden has a length of 10 meters and a width of 4 meters. What is the area and perimeter of the garden?",
+                "options": [
+                    { "text": "Area: 40 m², Perimeter: 28 m" },
+                    { "text": "Area: 44 m², Perimeter: 28 m" },
+                    { "text": "Area: 40 m², Perimeter: 24 m" },
+                    { "text": "Area: 50 m², Perimeter: 28 m" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "A square playground has a side length of 12 meters. What is the area and perimeter of the playground?",
+                "options": [
+                    { "text": "Area: 144 m², Perimeter: 48 m" },
+                    { "text": "Area: 120 m², Perimeter: 50 m" },
+                    { "text": "Area: 140 m², Perimeter: 44 m" },
+                    { "text": "Area: 144 m², Perimeter: 40 m" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "A rectangular room has a length of 8 meters and a width of 5 meters. What is the area and perimeter of the room?",
+                "options": [
+                    { "text": "Area: 40 m², Perimeter: 26 m" },
+                    { "text": "Area: 30 m², Perimeter: 25 m" },
+                    { "text": "Area: 40 m², Perimeter: 24 m" },
+                    { "text": "Area: 45 m², Perimeter: 28 m" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            }
+        ]
+    }
+]
+
+}
